@@ -230,6 +230,16 @@ body {
   padding: 20px;
   margin-top: 50px;
 }
+.pancake_menu .menu_list {
+  display:block;
+  /* align-items: center; Centra los elementos horizontalmente */
+
+  list-style: none;
+  
+}
+.pancake_menu .menu_list .menu_item {
+  width:100%;
+}
 
 /* メニューアイテムコンポーネント */
 .menu_list {
